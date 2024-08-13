@@ -4,4 +4,4 @@ Please install the following libraries before running.
 - JavaFX
 
 # Software
-Processing
+- Processing
