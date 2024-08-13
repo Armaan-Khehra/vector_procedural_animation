@@ -1,1 +1,4 @@
-# vector_procedural_animation
+Please install the following libraries before running.
+
+# Libraries:
+- JavaFX
